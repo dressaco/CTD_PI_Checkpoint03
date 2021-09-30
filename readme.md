@@ -1,11 +1,11 @@
 # Checkpoint 03
-### Progamação Imperativa - Certified Tech Developer Digital House
+### Progamação Imperativa | Certified Tech Developer | Digital House
 
-Professor Rodrigo Sarri
+**Professor** Rodrigo Sarri<br>
+**Tutor** Luiz Thiago Valente
 
-Tutor Luiz Thiago Valente
+#
 
-<br><br>
 
 ### Objetivos
 
